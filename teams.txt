@@ -1,0 +1,24 @@
+Turkey, @Owner's slack username
+England, @Owner's slack username
+Czech Republic, @Owner's slack username
+France, @Owner's slack username
+Germany, @Owner's slack username
+Ukraine, @Owner's slack username
+Italy, @Owner's slack username
+Finland, @Owner's slack username
+Spain, @Owner's slack username
+Portugal,@Owner's slack username
+Sweden,@Owner's slack username
+Austria,@Owner's slack username
+North Macedonia,@Owner's slack username
+Poland,@Owner's slack username
+Belgium,@Owner's slack username
+Netherlands,@Owner's slack username
+Denmark,@Owner's slack username
+Hungary,@Owner's slack username
+Russia,@Owner's slack username
+Wales,@Owner's slack username
+Croatia,@Owner's slack username
+Slovakia,@Owner's slack username
+Switzerland,@Owner's slack username
+Scotland, @Owner's slack username

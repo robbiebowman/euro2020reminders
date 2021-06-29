@@ -28,7 +28,7 @@ fun parseTeam(teamLine: String): Team {
 
 fun parseMatch(teams: List<Team>, matchLine: String): Match {
     val values = matchLine.split(',').map { it.trim() }
-    val localTime = LocalDateTime.parse("${values[0]} ${values[1]}", DateTimeFormatter.ofPattern("dd MMMM yyyy HH:mm"))
+    val localTime = LocalDateTime.parse("${values[0]} ${values[1]}", DateTimeFormatter.ofPattern("d MMMM yyyy HH:mm"))
     return Match(
         Pair(
             teams.first { it.name == values[2] },
